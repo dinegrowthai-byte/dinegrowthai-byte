@@ -1,25 +1,35 @@
 # Hi there, we are DineGrowth AI 👋
 
-Welcome to the official GitHub profile of **DineGrowth AI**! We specialize in AI-driven digital marketing solutions, data analytics, and custom automation to help businesses scale globally.
+Welcome to the official GitHub profile of **DineGrowth AI**! We leverage cutting-edge AI tools, AI agents, and smart automation to build high-converting performance marketing systems for growing businesses.
 
 ---
 
 ### 🚀 What We Do
-- **AI Marketing Strategy:** Performance marketing & predictive campaign insights.
-- **Web & App Development:** Scalable, conversion-focused digital platforms.
-- **Data & Tracking:** Meta Pixel, Google Tag Manager & Server-Side Analytics setup.
-- **Automation:** Smart workflow integration for agencies and enterprise clients.
+- **AI-Powered Performance Marketing:** Data-driven ad campaigns & predictive ROI optimization using advanced AI tools.
+- **Conversion Tracking & Analytics:** Server-side tracking, Meta Pixel, Google Tag Manager & custom dashboard setup.
+- **AI Workflow Automation:** Streamlining client acquisition and marketing pipelines with AI agents.
+- **Growth Strategy & Funnels:** End-to-end digital growth strategies focused on rapid business scaling.
 
 ---
 
-### 🛠️ Tech Stack & Tools
-- **Languages:** Python, JavaScript, HTML5, CSS3
-- **Tools & Platforms:** Git, Google Cloud, Meta API, Google Analytics 4, Docker
-- **AI Frameworks:** TensorFlow, OpenAI API, Custom Automation Agents
+### 🛠️ AI Tools & Platforms
+- **AI & Automation:** Custom AI Agents, OpenAI, Automation Workflows
+- **Marketing & Analytics:** Meta Ads Manager, Google Ads, GA4, Meta Pixel, GTM
+- **Strategy & Optimization:** AI Creative Generation, Funnel Building & Conversion Optimization
+
+---
+
+### 🌍 Target Markets
+We proudly serve clients across top European regions:
+- 🇮🇪 Ireland
+- 🇳🇴 Norway
+- 🇵🇹 Portugal
+- 🇧🇪 Belgium
+- 🇩🇰 Denmark
 
 ---
 
 ### 📬 Connect With Us
-- **Email:** dinegrowthai@gmail.com
-- **Website:** [Coming Soon]
-- **Location:** Serving Europe, Dubai & Global Markets
+- **Email:** hello@dinegrowthagency.com
+- **Landing Page:**
+
